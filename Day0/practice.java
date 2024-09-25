@@ -71,13 +71,28 @@ public class practice {
 
         } */
 
+
+        // for printing pyramid
+
+       /*  for (int i = 1; i <= n; i++) {
+            // Print spaces
+            for (int j = n; j > i; j--) {
+                System.out.print(" ");
+            }
+            // Print numbers
+            for (int k = 1; k <= i; k++) {
+                System.out.print(k + " ");
+            }
+            System.out.println();
+        } */
+    }
+}
        
        
 
  
-}
-    
-}    
+
+      
     
     
     
