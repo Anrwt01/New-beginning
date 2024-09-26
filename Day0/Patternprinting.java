@@ -82,9 +82,9 @@ public class Patternprinting {
                 }
                 System.out.println( ); */
 
-
+                    // for printing falf butterfly
                 
-                for(int i=1; i<=n; i++) {
+              /*   for(int i=1; i<=n; i++) {
                     for(int j=1; j<=i; j++) {
                         System.out.print("*");
                     }
@@ -100,7 +100,7 @@ public class Patternprinting {
          
                 
                     System.out.println();
-                }
+                } */
                       
 
     } 
